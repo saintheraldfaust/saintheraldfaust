@@ -1,6 +1,6 @@
 # 🐉 Eaelll Leon Faust 
 
-I'm Leon Faust, an interdisciplinary designer and software engineer.
+I'm Leon Faust, a product designer and software engineer.
 
 This is the part where I confess: I have an unhealthy obsession with financial technology products. I love building them, maintaining them, and, of course, breaking them—just so I can fix them right after. Fortune favours the paranoid… and their friends (who would have thought?).
 
