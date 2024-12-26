@@ -7,7 +7,6 @@ This is the part where I confess: I have an unhealthy obsession with financial t
 So, what of it? Well, I happen to have founded https://mypursepay.com in 2024, a company committed to growing Nigeria’s wealth economy. A canvas I can paint on and leave any shred of ingenuity that comes of obsession (healthy or unhealthy). I talk about it a little bit more on here https://hackernoon.com/the-divide-of-failed-economy-and-its-citizens
 
 I also run a creative agency https://studio.xenoxforge.com <br>
-For the love of design, I'm working on <a target='_blank'>https://theleonfaust.github.io/unlikelyUI/</a> <br>
 How I think about work? https://hackernoon.com/the-good-work-theory
 
 <img   width="100%" style="" src="public/one.svg" />
