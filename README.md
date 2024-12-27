@@ -9,7 +9,7 @@ So, what of it? Well, I happen to have founded https://mypursepay.com in 2024, a
 I also run a creative agency https://studio.xenoxforge.com <br>
 How I think about work? https://hackernoon.com/the-good-work-theory
 
-<img   width="100%" style="" src="public/newhead.png" />
+<img   width="100%" style="" src="public/leonfaust.svg" />
 
 # Gear
 
