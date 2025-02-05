@@ -1,14 +1,22 @@
 # 🐉 Herald L Faust
 
-I'm Leon Faust, a product designer and software engineer.
+Interdisciplinary designer, software engineer.
 
-This is the part where I confess: I have an obsession with financial technology products. I love building them, maintaining them, and, of course, breaking them—just so I can fix them right after. Fortune favours the paranoid… and their friends (who would have thought?).
+For me, writing software goes further than me having a stem degree; The devil is not in the details. This part is naked. It is what you see (I ask you judge the book by its cover). As for writing literature, It's an ego thing: and you can trust a man's ego to try a throw at gods heart.
 
-So, what of it? Well, I happen to have founded https://mypursepay.com in 2024, a company committed to growing Nigeria’s wealth economy using PRACTICAL AND SECURE software. A canvas I can paint on and leave any shred of ingenuity that comes of obsession (healthy or unhealthy). I talk about it a little bit more on here https://hackernoon.com/the-divide-of-failed-economy-and-its-citizens
+I am not much else, so far.
 
-My recent projects https://www.nouveauleonfaustdesign.pro/
-I also run a creative agency https://studio.xenoxforge.com <br>
-How I think about work? https://hackernoon.com/the-good-work-theory
+For you, this is the part where I confess: I have an obsession with financial technology products, value networks, and asset banks. I love building them, maintaining them, and, of course, breaking them.
+
+"Fortune favours the paranoid (And their acquaintances)"
+
+So, what of it? Well, I happen to have founded [https://mypursepay.com/] in 2024, a company committed to growing Nigeria’s wealth economy using PRACTICAL AND SECURE software. A canvas I can paint on and leave any shred of ingenuity that comes of obsession (healthy or unhealthy). I talk about its reasons a little bit more on here [https://hackernoon.com/the-divide-of-failed-economy-and-its-citizens]
+
+I made a little archive of my recent projects (STEM), view them here [https://www.nouveauleonfaustdesign.pro/]
+
+I run a creative agency [https://studio.xenoxforge.com]
+
+I made a theory on work, you should read it. [https://hackernoon.com/the-good-work-theory]
 
 <img   width="100%" style="" src="heraldfaust.svg" />
 
