@@ -1,4 +1,4 @@
-# 🐉 Eaelll Leon Faust 
+# 🐉 Herald L Faust
 
 I'm Leon Faust, a product designer and software engineer.
 
