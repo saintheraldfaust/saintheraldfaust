@@ -10,7 +10,7 @@ My recent projects https://www.nouveauleonfaustdesign.pro/
 I also run a creative agency https://studio.xenoxforge.com <br>
 How I think about work? https://hackernoon.com/the-good-work-theory
 
-<img   width="100%" style="" src="public/leonfaust.svg" />
+<img   width="100%" style="" src="heraldfaust.svg" />
 
 # Gear
 
