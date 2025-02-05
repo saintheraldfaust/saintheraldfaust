@@ -2,9 +2,9 @@
 
 I'm Leon Faust, a product designer and software engineer.
 
-This is the part where I confess: I have an unhealthy obsession with financial technology products. I love building them, maintaining them, and, of course, breaking them—just so I can fix them right after. Fortune favours the paranoid… and their friends (who would have thought?).
+This is the part where I confess: I have an obsession with financial technology products. I love building them, maintaining them, and, of course, breaking them—just so I can fix them right after. Fortune favours the paranoid… and their friends (who would have thought?).
 
-So, what of it? Well, I happen to have founded https://mypursepay.com in 2024, a company committed to growing Nigeria’s wealth economy using software aided efforts. A canvas I can paint on and leave any shred of ingenuity that comes of obsession (healthy or unhealthy). I talk about it a little bit more on here https://hackernoon.com/the-divide-of-failed-economy-and-its-citizens
+So, what of it? Well, I happen to have founded https://mypursepay.com in 2024, a company committed to growing Nigeria’s wealth economy using PRACTICAL AND SECURE software. A canvas I can paint on and leave any shred of ingenuity that comes of obsession (healthy or unhealthy). I talk about it a little bit more on here https://hackernoon.com/the-divide-of-failed-economy-and-its-citizens
 
 My recent projects https://www.nouveauleonfaustdesign.pro/
 I also run a creative agency https://studio.xenoxforge.com <br>
