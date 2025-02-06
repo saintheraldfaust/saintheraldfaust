@@ -2,7 +2,7 @@
 
 Interdisciplinary designer, software engineer.
 
-For me, writing software goes further than me having a stem degree; The devil is not in the details. This part is naked. It is what you see (I ask you judge the book by its cover). As for writing literature, It's an ego thing: and you can trust a man's ego to try a throw at gods heart.
+For me, writing software goes further than me having a STEM degree; The devil is not in the details. This part is naked. It is what you see (I ask you judge the book by its cover). As for writing literature, It's an ego thing: and you can trust a man's ego to try a throw at gods heart.
 
 I am not much else, so far.
 
