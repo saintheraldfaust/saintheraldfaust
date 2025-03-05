@@ -10,7 +10,7 @@ For you, this is the part where I confess: I have an obsession with financial te
 
 "Fortune favours the paranoid (And their acquaintances)"
 
-So, what of it? Well, I happen to have founded https://mypursepay.com in 2024, a company committed to growing Nigeria’s wealth economy using PRACTICAL AND SECURE software. A canvas I can paint on and leave any shred of ingenuity that comes of obsession (healthy or unhealthy). I talk about its reasons a little bit more on here https://hackernoon.com/the-divide-of-failed-economy-and-its-citizens
+So, what of it? Well, I happen to have founded https://mypursepay.com/ , a company committed to growing Nigeria’s wealth economy using PRACTICAL AND SECURE software. A canvas I can paint on and leave any shred of ingenuity that comes of obsession (healthy or unhealthy). I talk about its reasons a little bit more on here https://hackernoon.com/the-divide-of-failed-economy-and-its-citizens
 
 I made an archive of my recent projects, view them here https://www.nouveauleonfaustdesign.pro/
 
