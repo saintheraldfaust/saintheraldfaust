@@ -1,20 +1,18 @@
 # 🐉 Herald L Faust
 
-Interdisciplinary designer, software engineer.
+My work sits at the intersection of STEM, abstraction, and capital. I write, design and engineer systems that are complex, as they are useful.
 
-For me, writing software goes further than me having a STEM degree; The devil is not in the details. This part is naked. It is what you see (I ask you judge the book by its cover). As for writing literature, It's an ego thing: and you can trust a man's ego to try a throw at gods heart.
+At mypursepay, we built next-gen payments infrastructures, and engineered financial systems for global use - personal, business, and community. Everything from Fiat, Crypto, Utility, Escrow, and the mechanics of modern economics and it's ever-changing syntaxes - I have successfully privatized the fintech definition.
 
-I am not much else, so far.
+I believe consumer technology should be humanely intelligent, aesthetic, and again, aesthetic - I cannot stress that enough.
 
-For you, this is the part where I confess: I have an obsession with financial technology products, value networks, and asset banks. I love building them, maintaining them, and, of course, breaking them.
+My philosophy on work :
 
-"Fortune favours the paranoid (And their acquaintances)"
+A critical step towards creating anything that is as useful as it is intended, is understanding what it is, and communicating it to the right facilitator. Ideas managed by the wrong agent is as destructive as miscommunication. I understand this, and have come to be pragmatic : No useful project, with the privilege of good enforce in resources should be facilitated by people who are not experienced enough, creative enough, technical enough, and attentive enough, to get the job done. To that philosophy I hold my professional career.
 
-So, what of it? Well, I happen to have founded https://mypursepay.com/ , a company committed to growing Nigeria’s wealth economy using PRACTICAL AND SECURE software. A canvas I can paint on and leave any shred of ingenuity that comes of obsession (healthy or unhealthy). I talk about its reasons a little bit more on here https://hackernoon.com/the-divide-of-failed-economy-and-its-citizens
+I love cats, porches, and women on red.
 
-I made an archive of my recent projects, view them here https://www.nouveauleonfaustdesign.pro/
-
-I run a creative agency https://studio.xenoxforge.com
+You can reach me at heraldfaust@gmail.com
 
 <img   width="100%" style="" src="heraldfaust.svg" />
 
