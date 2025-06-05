@@ -2,7 +2,7 @@
 
 My work sits at the intersection of STEM, abstraction, and capital. I write, design and engineer systems that are complex, as they are useful.
 
-At mypursepay, we built next-gen payments infrastructures, and engineered financial systems for global use - personal, business, and community. Everything from Fiat, Crypto, Utility, Escrow, and the mechanics of modern economics and it's ever-changing syntaxes - I have successfully privatized the fintech definition.
+At mypursepay, we built next-gen payments infrastructures, and engineered financial systems for global use - personal, business, and community. Everything from fiat, crypto, utilities, escrow, and the mechanics of modern economics and it's ever-changing syntaxes - I have successfully privatized the fintech definition.
 
 I believe consumer technology should be humanely intelligent, aesthetic, and again, aesthetic - I cannot stress that enough.
 
