@@ -13,28 +13,6 @@ I love cats, porches, and women on red.
 You can reach me at heraldfaust@gmail.com
 
 <img   width="100%" style="" src="heraldfaust.svg" />
-
-# Gear
-
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />     
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
-<img align="left"  width="30px" style="padding-right:10px;padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-                                   
-          
 <br /> 
 
 
