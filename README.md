@@ -13,9 +13,3 @@ I love cats, porches, and women on red.
 You can reach me at heraldfaust@gmail.com
 
 <img   width="100%" style="" src="heraldfaust.svg" />
-<br /> 
-
-
-
-
-
