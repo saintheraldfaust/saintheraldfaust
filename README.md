@@ -11,3 +11,4 @@ A critical step towards creating anything that is as useful as it is intended, i
 I love cats, porches, and women on red.
 
 You can reach me at heraldfaust@gmail.com
+https://hackernoon.com/the-good-work-theory
