@@ -6,5 +6,6 @@ X Finance, & Payments infrastructure.
 X <b> Archive en route </b>
 X Product theory exploration & design
 
-https://saintheraldfaust.org
+https://saintheraldfaust.org 
+<br>
 https://hackernoon.com/the-good-work-theory
