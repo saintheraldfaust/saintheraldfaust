@@ -1,6 +1,6 @@
 Last updated 7/30/2025
 
-You can reach me at heraldfaust@gmail.com
+You can reach me at heraldfaust@gmail.com | saintheraldfaust.org
 
 X Finance, & Payments infrastructure.
 X <b> Archive en route </b>
