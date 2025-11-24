@@ -1,11 +1,9 @@
-Last updated 7/30/2025
-
 You can reach me at saintheraldfaust@gmail.com
 
-X Finance, & Payments infrastructure.
-X <b> Archive en route </b>
-X Product theory exploration & design
+St. H.
 
-https://saintheraldfaust.org 
+My work falls within Financial technology, software infrastructure, malware, product exploration & design, security.
+
+I write on https://saintheraldfaust.org 
 <br>
-https://hackernoon.com/the-good-work-theory
+https://hackernoon.com/the-good-work-theory (my philosophy on work)
