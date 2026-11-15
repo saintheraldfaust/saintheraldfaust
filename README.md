@@ -1,4 +1,4 @@
-You can reach me at kenneth@saintheraldfaust.org
+You can reach me at heraldfaust@gmail.com
 
 St. H.
 
