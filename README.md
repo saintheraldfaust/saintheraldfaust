@@ -1,7 +1,5 @@
 You can reach me at heraldfaust@gmail.com
 
-St. H.
+My work falls within Financial technology, software infrastructure, product exploration & design, security.
 
-My work falls within Financial technology, software infrastructure, malware, product exploration & design, security.
-
-I write on https://saintheraldfaust.org
+I write on https://saintheraldfaust.org and I make videos on YouTube 
